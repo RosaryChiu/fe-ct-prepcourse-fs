@@ -10,6 +10,7 @@ function sonIguales(x, y) {
    } else {
       return false;
    }
+   // return x === y  otra manera
 }
 
 function tienenMismaLongitud(str1, str2) {
